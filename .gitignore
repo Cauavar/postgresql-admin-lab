@@ -1,0 +1,19 @@
+# PostgreSQL backups
+*.backup
+*.dump
+*.bak
+
+# Logs
+*.log
+
+# Credentials and environment files
+pgpass.conf
+.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows files
+Thumbs.db
+desktop.ini
